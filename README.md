@@ -11,6 +11,8 @@ Just like medical insurance, there is vehicle insurance where every year custome
 Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
 
 Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc.
+
+
 Attribute Information
 
     id : Unique ID for the customer
@@ -38,7 +40,7 @@ Attribute Information
     Response : 1 : Customer is interested, 0 : Customer is not interested
 
 
-Summary
+Summary:-
 
     From the exploratory data analysis where we tried to dig insights from the data in hand. Those are
 
